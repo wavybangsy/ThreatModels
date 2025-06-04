@@ -3565,7 +3565,7 @@
       },
       {
         "id": 4,
-        "title": "voter Registration",
+        "title": "Vote Casting",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
