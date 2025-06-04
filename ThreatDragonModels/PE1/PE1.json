@@ -2069,7 +2069,7 @@
       },
       {
         "id": 3,
-        "title": "Candidate Registration",
+        "title": "voter Registration",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
