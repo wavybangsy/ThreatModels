@@ -1833,6 +1833,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "PKCS #5"
+              },
               "body": {
                 "stroke": "#333333",
                 "strokeWidth": 1.5,
@@ -1927,7 +1930,7 @@
             "zIndex": 14,
             "data": {
               "type": "tm.Process",
-              "name": "Process",
+              "name": "PKCS #5",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -1937,6 +1940,13 @@
               "isWebApplication": false,
               "privilegeLevel": "",
               "threats": []
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
