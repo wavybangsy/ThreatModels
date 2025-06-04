@@ -7,7 +7,14 @@
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "angelocguerra"
+      },
+      {
+        "name": "Glinary"
+      }
+    ],
     "diagrams": [
       {
         "id": 0,
