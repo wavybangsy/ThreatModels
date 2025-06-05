@@ -3274,6 +3274,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -3357,7 +3358,6 @@
               ]
             },
             "id": "25b55270-bea6-4b72-a3c9-9f521219ea00",
-            "zIndex": 1,
             "data": {
               "type": "tm.Actor",
               "name": "Browser Client",
@@ -3390,6 +3390,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -3473,7 +3474,6 @@
               ]
             },
             "id": "6c6f3d5f-7cd8-41c2-b039-bdaef1bada24",
-            "zIndex": 2,
             "data": {
               "type": "tm.Process",
               "name": "App",
@@ -3509,6 +3509,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -3592,7 +3593,6 @@
               ]
             },
             "id": "1da6d7cb-01db-42ef-b157-a33f73320cf3",
-            "zIndex": 3,
             "data": {
               "type": "tm.Process",
               "name": "PKCS #5",
@@ -4585,6 +4585,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -4668,7 +4669,6 @@
               ]
             },
             "id": "cd931947-89e5-458b-8e82-2207166b09c7",
-            "zIndex": 11,
             "data": {
               "type": "tm.Process",
               "name": "Forms",
@@ -4704,6 +4704,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 12,
             "ports": {
               "groups": {
                 "top": {
@@ -4787,7 +4788,6 @@
               ]
             },
             "id": "ba91e69f-9b65-442d-ac7a-e10ae29fe410",
-            "zIndex": 12,
             "data": {
               "type": "tm.Process",
               "name": "password-generator.js",
@@ -4823,6 +4823,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 13,
             "ports": {
               "groups": {
                 "top": {
@@ -4906,7 +4907,6 @@
               ]
             },
             "id": "7a74e4b9-6879-416a-849c-cc40b1fcb88f",
-            "zIndex": 13,
             "data": {
               "type": "tm.Process",
               "name": "jsrsasign.js",
@@ -4942,6 +4942,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 14,
             "ports": {
               "groups": {
                 "top": {
@@ -5025,7 +5026,6 @@
               ]
             },
             "id": "84e9060e-af9a-4bca-b917-4458e2b9ee02",
-            "zIndex": 14,
             "data": {
               "type": "tm.Process",
               "name": "PBKDF2withHmacSHA256",
